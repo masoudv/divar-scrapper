@@ -39,7 +39,7 @@ divar_search = Find_Element_By_XPATH(driver, '//*[@id="app"]/header/nav/div/div[
 time.sleep(1)
 
 # Human Typing
-human_typing(divar_search, "اچ سی کراس")
+human_typing(divar_search, "آیفون 13 128 گیگ")
 time.sleep(1)
 divar_search.send_keys(Keys.RETURN)  # Enter on search input
 
