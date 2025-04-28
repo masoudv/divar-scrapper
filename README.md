@@ -39,7 +39,13 @@ pip install -r requirements.txt
 4. Run the script:
 
 ```bash
-python divar.py
+python divar-scrapper.py
+```
+
+or
+
+```bash
+python3 divar-scrapper.py
 ```
 
 ✅ **Tip:** You can change the search keyword directly in the script (`divar.py`) inside the `human_typing()` function.
