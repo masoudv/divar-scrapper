@@ -48,7 +48,7 @@ or
 python3 divar-scrapper.py
 ```
 
-✅ **Tip:** You can change the search keyword directly in the script (`divar.py`) inside the `human_typing()` function.
+✅ **Tip:** You can change the search keyword directly in the script (`divar-scrapper.py`) inside the `human_typing()` function.
 
 ## ⚠️ Important Notes
 - You must be logged in to Divar website at least once before running the scraper (the script uses Chrome profile `chrome1` to keep you logged in).
