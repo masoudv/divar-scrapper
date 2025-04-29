@@ -1,4 +1,4 @@
-# Divar Scrapper 📋p📞
+# 📋 Divar Scrapper 
 
 A simple Python-based Divar ad scraper that automatically searches for a keyword, opens ads, retrieves phone numbers, and saves them into a CSV file.
 
